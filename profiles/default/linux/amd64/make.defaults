@@ -1,0 +1,3 @@
+USE="wayland pipewire gamemode nvidia"
+VIDEO_CARDS="nvidia"
+ACCEPT_LICENSE="@BINARY-REDISTRIBUTABLE"
